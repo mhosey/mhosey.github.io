@@ -7,6 +7,8 @@ h1 {
   font-family: Verdana;
   text-align: center;
   max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p { 
@@ -14,6 +16,8 @@ p {
   font-family: Verdana;
   text-align: center;
   max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #navbar {
