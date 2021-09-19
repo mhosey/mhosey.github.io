@@ -5,9 +5,13 @@ body {
 h1 {
   color: #FFFAFA;
   font-family: Veranda;
+  align="center";
+  width=65%;
 }
 
 p { 
   color: #FFFAFA;
   font-family: Veranda;
+  align="center";
+  width=65%;
 }
