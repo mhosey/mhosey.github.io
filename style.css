@@ -6,14 +6,14 @@ h1 {
   color: #FFFAFA;
   font-family: Verdana;
   text-align: center;
-  width: 65%;
+  max-width: 65%;
 }
 
 p { 
   color: #FFFAFA;
   font-family: Verdana;
   text-align: center;
-  width: 65%;
+  max-width: 65%;
 }
 .center {
   display: block;
